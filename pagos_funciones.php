@@ -1,4 +1,5 @@
 <?php
+	//tono estuvo qui
 
 function egresos_menuInicio() 
 {
