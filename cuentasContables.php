@@ -1,4 +1,5 @@
 <?php
+	//prueba de git
 
 	session_start();
 	include_once('cuentasContables_funciones.php');

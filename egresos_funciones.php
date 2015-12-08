@@ -1,4 +1,6 @@
 <?php
+	
+	//el full se la come
 
 function changeDateFormats($ini){
     $pos = strpos($ini, '-');
